@@ -40,3 +40,7 @@ node_modules/
 dist/
 **/dist/**
 **/*.pem
+
+# mpremote-sync local artifacts
+.deploy_files
+
